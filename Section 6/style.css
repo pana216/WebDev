@@ -1,0 +1,12 @@
+td{
+  height: 50px;
+  width: 50px;
+}
+.linksrechts{
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+.obenunten{
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
